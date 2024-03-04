@@ -1,4 +1,5 @@
-# projet-python2
+# Analyse-de-ventes
+
 Nous avons dans le dossier datasets/SalesAnalysis des données de ventes d'une entreprise sur l'année 2019. Vous avez un fichier csv par mois.
 
 Chaque fichier contient les colonnes suivantes:
